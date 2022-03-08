@@ -26,7 +26,7 @@ sleep 1
 done
 
 #Check if we're on an NVMe filesystem
-if [ $(readlink -f /dev/xvda) = "/dev/xvda" ]
+if [ $(readlink -f /dev/xvda) = "/dev/xvdasss" ]
 then
   # Rewrite the partition table so that the partition takes up all the space that it can.
   sudo growpart /dev/xvda 1
