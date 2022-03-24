@@ -1,3 +1,6 @@
+![grafik](https://user-images.githubusercontent.com/90322369/159933066-d79a6486-3d3e-4db6-8660-73a391e6dfb0.png)
+
+
 ## Cloud DevOps ND - C4- Microservices at Scale using AWS & Kubernetes - Supporting Material and Project Starter
 
 This repository is associated with Cloud DevOps ND - Course 04 - Microservices at Scale using AWS & Kubernetes. In here, you'll find:
