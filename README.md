@@ -20,14 +20,14 @@ This project launches a kubernetes cluster to provide a docker container to do a
 ### How to use the project code
 
 * create a virtual environment and activate that environment
-`python3 -m venv <env>
-`source <env>/bin/activate
+`python3 -m venv <env>`
+`source <env>/bin/activate`
 
 * install the necessary dependencies using the makefile
-`make install
+`make install`
 
 * run the app in kubernetes
-`./run_kubernetes.sh
+`./run_kubernetes.sh`
   
 ### Files included
 
