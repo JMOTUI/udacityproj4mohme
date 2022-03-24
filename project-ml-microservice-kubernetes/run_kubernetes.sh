@@ -8,7 +8,7 @@
 dockerpath="jensmohmetui/mlapi"
 # Step 2
 # Run the Docker Hub container with kubernetes
-kubectl run mlapipod --generator=run-pod/v1 --image=$dockerpath --port=80 --labels app=mlapipod
+kubectl run mlapipod --image=$dockerpath --port=80 --labels app=mlapi
 
 # Step 3:
 # List kubernetes pods
