@@ -3,7 +3,7 @@
 
 ## Project 4 - Operationalize a machine learning microservice API
 
-This project launches a kubernetes cluster to provide a docker container to do a machine learning example that calculates the average housing prices in Boston. It is using a python application in the backend.
+This project launches a kubernetes cluster to provide a docker container to do a machine learning example that calculates the average housing prices in Boston. It is using a python application in the backend. The code is within the subfolder `project-ml-microservice-kubernetes`
 
 ---
 
