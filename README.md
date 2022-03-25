@@ -1,5 +1,4 @@
-![grafik](https://user-images.githubusercontent.com/90322369/159933066-d79a6486-3d3e-4db6-8660-73a391e6dfb0.png)
-
+[![CircleCI](https://circleci.com/gh/JMOTUI/udacityproj4mohme.svg?style=svg)](https://app.circleci.com/pipelines/github/JMOTUI/udacityproj4mohme)
 
 ## Project 4 - Operationalize a machine learning microservice API
 
